@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import streamlit as st
 
-API="http://127.0.0.1:8000"
+API = "https://jocky-x.onrender.com"
 st.set_page_config(page_title="JOCKY-X",layout="wide")
 st.title("JOCKY-X")
 st.caption("Cross-Platform Forensic Detection & Investigation — defensive prototype")
