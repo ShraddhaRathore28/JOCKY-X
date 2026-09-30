@@ -1,0 +1,7 @@
+# Defensive forensic investigation
+INVESTIGATION demo_case
+TARGET windows,ubuntu
+COLLECT process,network,file,memory,driver
+DETECT process_anomaly,beaconing,dns_tunneling,file_anomaly,memory_anomaly,driver_anomaly,lateral_movement,data_exfiltration
+TIMELINE true
+EXPLAIN true

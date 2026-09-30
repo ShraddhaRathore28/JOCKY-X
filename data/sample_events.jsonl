@@ -1,0 +1,6 @@
+{"timestamp":"2026-09-30T10:00:00Z","platform":"windows","event_type":"process_start","process":"powershell.exe","parent_process":"winword.exe"}
+{"timestamp":"2026-09-30T10:00:05Z","platform":"windows","event_type":"network_connection","destination":"203.0.113.20:443"}
+{"timestamp":"2026-09-30T10:00:15Z","platform":"windows","event_type":"network_connection","destination":"203.0.113.20:443"}
+{"timestamp":"2026-09-30T10:00:25Z","platform":"windows","event_type":"network_connection","destination":"203.0.113.20:443"}
+{"timestamp":"2026-09-30T10:00:35Z","platform":"windows","event_type":"network_connection","destination":"203.0.113.20:443"}
+{"timestamp":"2026-09-30T10:01:00Z","platform":"windows","event_type":"dns_query","domain":"encoded-long-subdomain.example.test"}
